@@ -1,0 +1,8 @@
+﻿  AverageDistanceInSquare.cpp
+C:\VisualStudio2022Codes\AverageDistanceInSquare\AverageDistanceInSquare.cpp(11,15): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\VisualStudio2022Codes\AverageDistanceInSquare\AverageDistanceInSquare.cpp(22,21): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\VisualStudio2022Codes\AverageDistanceInSquare\AverageDistanceInSquare.cpp(23,21): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\VisualStudio2022Codes\AverageDistanceInSquare\AverageDistanceInSquare.cpp(24,21): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\VisualStudio2022Codes\AverageDistanceInSquare\AverageDistanceInSquare.cpp(25,21): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\VisualStudio2022Codes\AverageDistanceInSquare\AverageDistanceInSquare.cpp(27,24): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  AverageDistanceInSquare.vcxproj -> C:\VisualStudio2022Codes\AverageDistanceInSquare\x64\Debug\AverageDistanceInSquare.exe
